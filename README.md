@@ -30,16 +30,3 @@ Developing my technical skills<br><br>Actively engaged in continuous learning an
 ![](https://streak-stats.demolab.com/?user=KRISHKOTHARI63&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KRISHKOTHARI63&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KRISHKOTHARI63&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KRISHKOTHARI63&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=KRISHKOTHARI63&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
